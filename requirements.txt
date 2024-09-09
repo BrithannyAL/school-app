@@ -1,0 +1,4 @@
+flet==0.22.*
+Pyrebase4
+mysql-connector-python
+setuptools
